@@ -1,12 +1,13 @@
-# Olá, eu sou Cardoso Matine! 👋
+# Hi, I'm Cardoso Matine! 👋
 
-- 🌱 Atualmente estou estudando Python Django para desenvolvimento web
-- 👨‍💻 Sou desenvolvedor backend em Python
-- 💬 Pergunte-me sobre desenvolvimento backend com Python
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/cardoso-matine) | Email: cardoso.matine27@gmail.com
-- ⚡ Curiosidade: Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de desenvolvimento web.
+- 🌱 I'm currently studying Python Django for web development
+- 👨‍💻 I'm a backend developer in Python
+- 💬 Feel free to ask me about backend development with Python
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cardoso-matine) | Email: cardoso.matine27@gmail.com
+- ⚡ Fun fact: I'm always looking for new challenges and opportunities to learn and grow in the web development field.
 
-✨ Dê uma olhada nos meus projetos e conecte-se comigo! ✨
+✨ Check out my projects and connect with me! ✨
+
 
 
 <!---
