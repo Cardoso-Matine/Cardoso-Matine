@@ -1,6 +1,5 @@
 # Hi, I'm Cardoso Matine! 👋
 
-- 🌱 I'm currently studying Python Django for web development
 - 👨‍💻 I'm a backend developer in Python
 - 💬 Feel free to ask me about backend development with Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cardoso-matine) | Email: cardoso.matine27@gmail.com
