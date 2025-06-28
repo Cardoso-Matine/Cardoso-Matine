@@ -1,4 +1,4 @@
-# Hi, I'm Cardoso Matine! 
+# I'm Cardoso Matine! 
 
 - 👨‍💻 I'm a backend developer in Python
 - 💬 Feel free to ask me about backend development with Python
