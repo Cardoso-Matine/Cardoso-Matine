@@ -5,8 +5,6 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cardoso-matine) | Email: cardoso.matine27@gmail.com
 - ⚡ Fun fact: I'm always looking for new challenges and opportunities to learn and grow in the web development field.
 
-✨ Check out my projects and connect with me! ✨
-
 
 
 <!---
