@@ -1,6 +1,6 @@
 # Hello, my name is Cardoso Matine
 
-**`Full-Stack Developer.`**
+**`Full-Stack Developer`**
 
 I'm a full-stack developer and a 3rd-year Computer and Telecommunications Engineering student. I mainly work with Python, Django, MySQL, HTML, CSS, and JavaScript. I'm passionate about building real, functional projects and learning through hands-on experience. My goal is to grow as a developer, sharpen my technical skills, and find an opportunity in the tech industry.
 
