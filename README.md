@@ -1,40 +1,36 @@
-# 👋 Hey, I'm Carson Deezy
+# 👋 Yo! Eu sou o Carson Deezy
 
-I'm a **full-stack developer** passionate about building clean, scalable and impactful applications. I started programming in 2021 and I've been learning and creating projects with **Python**, **Django**, **MySQL**, and modern web technologies ever since.
+Desenvolvedor full-stack em formação, apaixonado por transformar ideias em código. Comecei com Python e HTML lá em 2021 e desde então venho construindo, quebrando e aprendendo.
 
-## 🛠️ Tech Stack
+## 🚀 O que eu faço
 
-- 💻 Python | Django | Django REST Framework  
-- 🗄️ MySQL | SQLite  
-- 🌐 HTML | CSS | JavaScript  
-- ⚙️ Git | GitHub | Docker  
-- 🧪 APIs | CRUD | Terminal Interfaces  
-- 🌱 Currently learning: React.js & Next.js
+- Backend com **Python + Django**
+- Banco de dados com **MySQL e SQLite**
+- Front básico com **HTML, CSS e JavaScript**
+- Testes, APIs, CRUDs e projetos reais no terminal
+- Tô começando com **React e Next.js**
 
-## 🚀 Projects
+## 📂 Meus projetos
 
-Here are some of my featured projects:
+- 📇 **Contact Manager** – cadastro de contatos via terminal com Python + MySQL  
+- 🛍️ **Mini Loja** – projeto simples de loja com HTML, CSS e um toque de backend  
+- 🛠️ **MecaJato** – site de mecânica em construção, pra gestão de serviços e veículos  
+- 📡 Outros projetinhos estão vindo aí...
 
-- 📇 **Contact Manager** – Terminal app to create, list, update and delete contacts using Python and MySQL  
-- 🛒 **Mini Store** – Simple web store prototype built with HTML, CSS, and a bit of Python  
-- 🔧 **MecaJato** – (WIP) Mechanic-themed project to manage car services and clients  
-- 📦 More on [my repositories »](https://github.com/seu-usuario)
+## 🎯 Objetivos
 
-## 📈 Goals
+- Conseguir meu primeiro estágio remoto na área  
+- Aprender mais de frontend moderno  
+- Melhorar meu inglês técnico  
+- Postar mais no GitHub e compartilhar o processo
 
-- Expand my portfolio with real-world Django + MySQL apps  
-- Contribute to open source projects  
-- Get my first internship or junior role remotely  
-- Improve my English and technical communication  
+## 🌍 Contato
 
-## 📫 Let's Connect
-
-- 🌍 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
-- 💌 Email: your.email@example.com  
-- 🧑‍💻 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)  
+- Email: teuemail@email.com  
+- LinkedIn? Tô preparando...
 
 ---
 
-> “The best way to learn is by building.”
+> *"Aprendendo na marra, evoluindo no foco."*
 
-Thanks for visiting! 😊
