@@ -1,12 +1,3 @@
-
-
-<p align="center">
-  <img src="https://github.com/Cardoso-Matine/Cardoso-Matine/blob/main/IMG_8934.jpeg?raw=true" alt="Minha Foto" width="800" height="350"/>
-</p>
-
-
-
-
 ## Hello, my name is Cardoso Matine and I am a Full-Stack Developer.
 
 
