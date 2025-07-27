@@ -1,39 +1,40 @@
-# Olá, eu sou [Seu Nome]! 👋
+# 👋 Hey, I'm Carson Deezy
 
-[![GitHub followers](https://img.shields.io/github/followers/seuusername?style=social)](https://github.com/seuusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seuprofile/)
+I'm a **full-stack developer** passionate about building clean, scalable and impactful applications. I started programming in 2021 and I've been learning and creating projects with **Python**, **Django**, **MySQL**, and modern web technologies ever since.
 
-Desenvolvedor(a) [Front-end/Back-end/Full-stack] apaixonado(a) por tecnologia e soluções criativas.
+## 🛠️ Tech Stack
 
-## 🛠 Tecnologias e Ferramentas
+- 💻 Python | Django | Django REST Framework  
+- 🗄️ MySQL | SQLite  
+- 🌐 HTML | CSS | JavaScript  
+- ⚙️ Git | GitHub | Docker  
+- 🧪 APIs | CRUD | Terminal Interfaces  
+- 🌱 Currently learning: React.js & Next.js
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 🚀 Projects
 
-## 📊 Estatísticas do GitHub
+Here are some of my featured projects:
 
-![Seus Estatísticas](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+- 📇 **Contact Manager** – Terminal app to create, list, update and delete contacts using Python and MySQL  
+- 🛒 **Mini Store** – Simple web store prototype built with HTML, CSS, and a bit of Python  
+- 🔧 **MecaJato** – (WIP) Mechanic-themed project to manage car services and clients  
+- 📦 More on [my repositories »](https://github.com/seu-usuario)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
+## 📈 Goals
 
-## 📫 Como me encontrar
+- Expand my portfolio with real-world Django + MySQL apps  
+- Contribute to open source projects  
+- Get my first internship or junior role remotely  
+- Improve my English and technical communication  
 
-- Email: seuemail@exemplo.com
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/seuprofile/)
-- Site Pessoal: [https://seusite.com](https://seusite.com)
+## 📫 Let's Connect
 
-## 🎯 Objetivos Atuais
+- 🌍 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
+- 💌 Email: your.email@example.com  
+- 🧑‍💻 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
 
-- [ ] Aprender [nova tecnologia]
-- [ ] Contribuir para projetos open-source
-- [ ] Desenvolver [seu projeto interessante]
+---
 
-## 💡 Curiosidades
+> “The best way to learn is by building.”
 
-- Adoro [hobby/interesse fora da programação]
-- Já trabalhei com [experiência interessante]
-- Sou fascinado por [área de interesse]
+Thanks for visiting! 😊
