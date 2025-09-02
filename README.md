@@ -5,7 +5,7 @@
 
 ## I'm a full-stack developer and a 3rd-year Computer and Telecommunications Engineering student.
 I mainly work with Python, Django, DRF, MySQL, React, Next.js, HTML, CSS, JavaScript and Docker. I'm passionate about building real, functional projects and learning through hands-on experience.
-I believe that good practices, logic and development standards are more important than mastering any specific language. Technologies change, but the solid foundation remains.
+I believe that good practices, logic and development standards are more important than mastering any specific language. Technologies change, but the solid foundation remains
 My goal is to grow as a developer, sharpen my technical skills, and find an opportunity in the tech industry
 
 <div style="display: inline_block"><br>
