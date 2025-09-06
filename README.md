@@ -1,4 +1,4 @@
-# Hello, my name is Cardoso Matine
+# Cardoso Matine
 
 
 
