@@ -9,7 +9,7 @@ I believe that good practices, logic and development standards are more importan
 My goal is to grow as a developer, sharpen my technical skills, and find an opportunity in the tech industry.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,python,django,react,nextjs,js,ts,html,css,mysql,docker,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,react,nextjs,js,ts,html,css,mysql,docker,aws,postman)](https://skillicons.dev)
 
   ##
  
